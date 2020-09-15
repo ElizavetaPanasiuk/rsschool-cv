@@ -20,5 +20,12 @@
 * Git  
 * Photoshop, Visual Studio Code
 
+## Education  
+**Belarus State Economic University**  
+**Faculty of Digital Economy**  
+**Specialty:** Economic Informatics  
+**Course:** 3  
+**Graduation year:** 2022
+
 ## English 
 **Level:** Intermediate(B1)
