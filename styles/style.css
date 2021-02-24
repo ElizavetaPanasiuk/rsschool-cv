@@ -81,17 +81,17 @@ img#avatar {
   background-color:#ff8b44;
 }
 
-.rightPart {
+.main {
   width: 65%;
   background-color: #FFC6A4;
 }
 
-.rightPart article div, 
-.rightPart article ul {
+.main article div, 
+.main article ul {
   padding: 20px;
 }
 
-.rightPart h2 {
+.main h2 {
   border-left: solid 10px #ff8b44;
   background-color: #fca657;
 }
@@ -111,4 +111,7 @@ footer a {
 footer a img {
   height: 80%;
   margin-top: 5px;
+}
+.hidden{
+  display: none;
 }
