@@ -81,17 +81,17 @@ img#avatar {
   background-color:#ff8b44;
 }
 
-.main {
+.rightPart {
   width: 65%;
   background-color: #FFC6A4;
 }
 
-.main article div, 
-.main article ul {
+.rightPart article div, 
+.rightPart article ul {
   padding: 20px;
 }
 
-.main h2 {
+.rightPart h2 {
   border-left: solid 10px #ff8b44;
   background-color: #fca657;
 }
