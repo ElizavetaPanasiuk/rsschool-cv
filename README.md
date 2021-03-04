@@ -1,7 +1,7 @@
 # rsschool-cv
 https://ElizavetaPanasiuk.github.io/rsschool-cv/cv  
 https://ElizavetaPanasiuk.github.io/rsschool-cv/
-![image](https://user-images.githubusercontent.com/65709545/109999016-db81a980-7d22-11eb-9d00-1d069f8a2c1c.png)
+![image](https://user-images.githubusercontent.com/65709545/110000384-47b0dd00-7d24-11eb-9301-7460842c5ef5.png)
 Task: https://rolling-scopes-school.github.io/stage0/#/stage0/tasks/html-css
 Самооценка:
 1. Верстка валидная +10
