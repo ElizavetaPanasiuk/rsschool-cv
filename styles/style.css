@@ -116,6 +116,12 @@ footer {
 footer a {
   width: 10%;
 }
+footer p{
+  width: 10%;
+  color: #FFF;
+  display: flex;
+  align-items: center;
+}
 footer a img {
   height: 80%;
   margin-top: 5px;
