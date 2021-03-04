@@ -74,11 +74,15 @@ img#avatar {
   background-color: #ffa858;
 }
 
-.leftPart article.contacts {
+.leftPart .contacts {
   padding: 10px;
   border: none;
   border-radius: 0;
   background-color:#ff8b44;
+}
+
+.leftPart .contacts ul{
+  list-style-type: none;
 }
 
 .rightPart {
@@ -94,6 +98,10 @@ img#avatar {
 .rightPart h2 {
   border-left: solid 10px #ff8b44;
   background-color: #fca657;
+}
+.rightPart article ul.projects li a{
+  text-decoration: none;
+  color: black;
 }
 
 footer {
